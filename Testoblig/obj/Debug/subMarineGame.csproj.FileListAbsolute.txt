@@ -1,0 +1,20 @@
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\bin\Debug\Testoblig.exe.config
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\bin\Debug\Testoblig.exe
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\bin\Debug\Testoblig.pdb
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\battleShipWars.theGame.resources
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\Testoblig.Properties.Resources.resources
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\subMarineGame.csproj.GenerateResource.Cache
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\Testoblig.exe
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\Testoblig.pdb
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\subMarineGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\Skole\PRG-2000\Visual Studio 2013\Projects\Oppgaver\ObligRunde2\Testoblig\Testoblig\obj\Debug\obligatoriskOppgaveDel1.Spillerregistering.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\bin\Debug\Testoblig.exe.config
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\Testoblig.exe
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\Testoblig.pdb
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\bin\Debug\Testoblig.exe
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\bin\Debug\Testoblig.pdb
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\subMarineGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\battleShipWars.TheGame.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\obligatoriskOppgaveDel1.Spillerregistering.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\Testoblig.Properties.Resources.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave1\SubMarineGame\Testoblig\obj\Debug\subMarineGame.csproj.GenerateResource.Cache
